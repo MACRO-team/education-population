@@ -1,5 +1,5 @@
-Metrics for the papers in Belland et al., 2017:
-
+The Metric for the papers in Belland et al., 2017:
+Krippendorf alpha with a nominal scale is 0.875.
 
 Metrics for the extended manualcodings in Gupta et al., 2023
 |Raters|Krippendorf alpha|
