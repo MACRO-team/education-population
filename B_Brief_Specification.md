@@ -7,5 +7,5 @@
 7. **High performing:** Learners are either tested and identified as gifted/talented or the article highlights the high performance nature of the learners/setting (see for example (Tan et al., 2005): "Top Ten in the nation in the past five years based on the studentsí performance in the General Cambridge Level Examination. The school has a tradition of excellence in science, as demonstrated by their challenging curricular and co-curricular science-based programmes, the pupil’s strong academic performance and their achievements in various zone and national". Honor courses are considered high performing.
 8. **Under performing:** The study makes a case that the population struggles to perform. For example, (Ross & Bruce, 2009) Teachers were asked to identify a classroom of theirs that struggled most with the content. In addition, "teachers used the results of the first test occasion and their knowledge of students to identify 91 of their 364 students (25%) for CLIPS training" So this is essentially the bottom quartile of the grade. Then from that bottom quartile the teachers chose 39 to receive all CLIPS. Since "26% of this population was identified as special needs" (p722) I would argue that the experimental condition was composed of special needs.
 
-TODO:
-References
+
+Individuals With Disabilities Education Act, 20 U.S.C. § 1400 (2004).
