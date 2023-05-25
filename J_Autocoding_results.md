@@ -30,9 +30,7 @@
 |Philpot, T. A., Hall, R. H., Hubing, N., & Flori, R. E. (2005). Using games to teach statics calculation procedures: Application and assessment. Computer Applications in Engineering Education, 13(3), 222–232. doi:10.1002/cae.20043|traditional|
 |Tan, S. C. (2000). Supporting collaborative problem-solving through computer-supported collaborative argumentation. (Order No. 9982414, The Pennsylvania State University). ProQuest Dissertations and Theses, , 188-188 p. Retrieved from http://search.proquest.com/docview/304615548?accountid=14761. (304615548)|traditional|
 |Thomas, J. M. (2011). Automated scaffolding of task-based learning in non-linear game environments. Dissertation, North Carolina State University. Raleigh, NC: North Carolina State University. UMI Number: 3463833.|traditional|
-|Ulicsak, M. H. (2004). ‘How did it know we weren’t talking?’: An investigation into the impact of
- self-assessments and feedback in a
- group activity. Jurnal of Computer-Assisted Learning, 20, 205-211o|traditional|
+|Ulicsak, M. H. (2004). ‘How did it know we weren’t talking?’: An investigation into the impact of self-assessments and feedback in a group activity. Jurnal of Computer-Assisted Learning, 20, 205-211o|traditional|
 |Vanlehn, K., Lynch, C., Schulze, K., Shapiro, J. A., Shelby, R., Taylor, L., ... & Wintersgill, M. (2005). The Andes physics tutoring system: Lessons learned. International Journal of Artificial Intelligence in Education, 15(3), 147-204.|traditional|
 |Rieber, L. P., Tzeng, S.-C., & Tribble, K. (2004). Discovery learning, representation, and explanation within a computer-based simulation: finding the right mix. Learning and Instruction, 14(3), 307–323. doi:10.1016/j.learninstruc.2004.06.008|traditional|
 |Siegel, M. A. (2006). High school students' decision-making about sustainability. Environmental Education Research, 12(2), 201-215.|non-traditional|
